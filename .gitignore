@@ -1,3 +1,11 @@
+# Dev/yatube_project/.gitignore
+
+.vscode/
+
+...
+Все другие игнорируемые файлы и папки
+...
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
